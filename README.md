@@ -3,18 +3,22 @@
 Welcome to the official GitHub repository of the ACE (Association of Computer Engineers) Club, CMR Institute of Technology (CMRIT).
 This repository is dedicated to showcasing the club’s activities, projects, and events aimed at promoting technical learning, collaboration, and innovation in the field of computer science and engineering
 
+
 *About Us*
+
 The ACE Club at CMRIT is a student-led organization that provides a platform for students passionate about technology and engineering to enhance their skills, engage in collaborative projects, and participate in a variety of tech-related events. Our club is committed to helping members grow as professionals and technical innovators through workshops, hackathons, coding competitions, and guest lectures.
 
+
 *Mission*
+
 Our mission is to:
-Foster a collaborative environment for learning and development in software engineering and related fields.
+-Foster a collaborative environment for learning and development in software engineering and related fields.
 
-Organize technical events that provide hands-on experience in coding, open-source development, and other technology domains.
+-Organize technical events that provide hands-on experience in coding, open-source development, and other technology domains.
 
-Encourage members to contribute to open-source projects and share knowledge with the broader tech community.
+-Encourage members to contribute to open-source projects and share knowledge with the broader tech community.
 
-Build a strong network of students and professionals to exchange ideas and explore emerging technologies.
+-Build a strong network of students and professionals to exchange ideas and explore emerging technologies.
 
 
 *Our Activities*
